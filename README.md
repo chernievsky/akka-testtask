@@ -1,8 +1,8 @@
 # akka-testtask
 
-####(Just a simple test task to get a little practice with akka)
+#### (Just a simple test task to get a little practice with akka)
 
-###Task description:
+### Task description:
 "Technologies to use: Akka Actors, Akka Http
 
 We have two actors:
@@ -12,6 +12,6 @@ We have two actors:
 
 Actors are connected. Googler sends all queries to Reminder to get them remembered"
 
-###API
+### API
 /ask?q=**something** - scrape and return results from google first page for query **something**  
 /remind - get previous queries
